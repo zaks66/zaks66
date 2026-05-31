@@ -1,29 +1,32 @@
-# ⚡ Hi there, I'm Zakaria! <img src="https://media.giphy.com/media/ee937y0bWpCqA/giphy.gif" width="30px">
-
+<h1 align="center">✦ ZAKARIA (zaks66) ✦</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Focused+on+Low-Level+Programming+%26+C;Linux+%26+Systems+Administration+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%E2%80%A3+low_level_developer.bin;%E2%80%A3+linux_systems_enthusiast.sh;%E2%80%A3+searching_for_memory_leaks..." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/zaks66">
-    <img src="https://img.shields.io/github/followers/zaks66?label=Followers&style=for-the-badge&color=00FFCC&labelColor=1C1C1C" alt="Followers">
-  </a>
-  <a href="https://github.com/zaks66">
-    <img src="https://img.shields.io/github/stars/zaks66?label=Stars+Given&style=for-the-badge&color=FF3366&labelColor=1C1C1C" alt="Stars">
-  </a>
+  <img src="https://img.shields.io/github/followers/zaks66?label=followers&style=flat-square&color=white&labelColor=111111" alt="Followers">
+  <img src="https://img.shields.io/github/stars/zaks66?label=stars&style=flat-square&color=white&labelColor=111111" alt="Stars">
 </p>
 
 ---
 
-## 🚀 About Me
+### 📥 [SYSTEM OVERVIEW]
 
 ```c
-#include <stdio.h>
+#include <unistd.h>
 
-int main() {
-    printf("👋 Hello World!\n");
-    printf("🎓 Student passionate about software engineering and low-level development.\n");
-    printf("🎯 Current Focus: Mastering memory management, algorithms, and modular C.\n");
-    printf("🐧 OS Environment: Fully immersed in Linux systems and shell scripting.\n");
-    return 0;
+void	about_me(void)
+{
+	write(1, "Name       : Zakaria\n", 22);
+	write(1, "Status     : Software Engineering Student\n", 43);
+	write(1, "Environment: Linux / WSL Ubuntu\n", 33);
+	write(1, "Focus      : C, Pointers, and Kernel Mechanics\n", 48);
 }
+● CORE LANGUAGES  ::  C  |  C++  |  Shell Scripting (Bash)  |  JavaScript
+● ENVIRONMENT     ::  Linux  |  Ubuntu  |  Git & GitHub  |  Vim
+● DEV TOOLS       ::  GCC  |  Makefiles  |  Valgrind (Memory Check)
+[MY TECH SKILLS GRAPH]
+C     
+Shell     
+Linux Sys   
+Git/Vim     
