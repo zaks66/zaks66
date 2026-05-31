@@ -44,19 +44,6 @@
 </table>
 
 <br><hr><br>
-
-<h2 align="center">📈 [LIVE METRICS & PERFORMANCE]</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaks66&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaks66&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghvc/?username=zaks66&label=TOTAL%20SYSTEM%20ATTACKS&color=9933FF&style=flat-square" />
-</div>
-
-<br><hr><br>
-
 <h2 align="center">🏁 [SYSTEM TERMINATION]</h2>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=9933FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Compilation+successful.+No+memory+leaks." alt="Footer SVG" />
