@@ -23,7 +23,7 @@
 int main() {
     printf("👋 Hello World!\n");
     printf("🎓 Student passionate about software engineering and low-level development.\n");
-    printf("🎯 Current Focus: Mastering memory management, algorithms, and modular C/C++.\n");
+    printf("🎯 Current Focus: Mastering memory management, algorithms, and modular C.\n");
     printf("🐧 OS Environment: Fully immersed in Linux systems and shell scripting.\n");
     return 0;
 }
