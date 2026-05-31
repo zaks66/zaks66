@@ -13,14 +13,6 @@
 </div>
 
 <br><hr><br>
-
-<h2 align="center">📊 [DYNAMIC LANGUAGES ANALYSIS]</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaks66&layout=donut&theme=tokyonight&hide_border=true&langs_count=5" width="60%" alt="Top Languages" />
-</div>
-
-<br><hr><br>
-
 <h2 align="center">🛠️ [TECH STACK & CORE INVENTORY]</h2>
 <table align="center" width="100%">
   <tr>
