@@ -18,42 +18,73 @@
 
 ---
 
-## 🎯 [SYSTEM OVERVIEW & BIOGRAPHY]
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9933FF&center=true&vCenter=true&width=750&lines=Cloud+Security+Engineer;C+%7C+Python+%7C+Shell+%7C+Linux;1337+School+Candidate" alt="Typing SVG"/>
+  <h1>⚡ ZAKARIA </h1>
+  <p><strong>Systems Programmer · Cloud Security Engineer in Progress</strong></p>
+  <a href="https://discord.com/users/sabir0994"><img src="https://img.shields.io/badge/Discord-zak07-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
 
-```c
-#include <unistd.h>
+<br><hr><br>
 
-void	load_profile(void)
-{
-	write(1, "⚡ Age        : 21 Years Old\n", 31);
-	write(1, "⚡ Target     : Preparing for 1337 School\n", 43);
-	write(1, "⚡ Focus      : Cloud Security · Cybersecurity · Pentesting\n", 62);
-	write(1, "⚡ Mission    : Transitioning from Code to Cloud Security\n", 59);
-}
-char	*languages[] = {
-	"C",
-	"Python",
-	"HTML5",
-	"CSS3",
-	"JavaScript"
-};
-void	deploy_infrastructure(void)
-{
-	connect_to("AWS");
-	connect_to("Azure");
-	spin_up("Docker_Containers");
-	apply_manifest("Terraform");
-}
-int	start_pentest(void)
-{
-	boot_os("Kali_Linux");
-	capture_packets("Wireshark");
-	intercept_requests("Burp_Suite");
-	return (SUCCESS);
-}
-void	developer_env(void)
-{
-	set_kernel("Linux");
-	track_version("Git");
-	write_code_in("Vim");
-}
+<h2 align="center">🎯 [SYSTEM OVERVIEW & BIOGRAPHY]</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=⚡+Age%3A+21+Years+Old;⚡+Target%3A+Preparing+for+1337+School;⚡+Focus%3A+Cloud+Security+·+Cybersecurity+·+Pentesting;⚡+Mission%3A+Transitioning+from+Code+to+Cloud+Security" alt="Dynamic Bio"/>
+</div>
+
+<br><hr><br>
+
+<h2 align="center">📊 [DYNAMIC LANGUAGES ANALYSIS]</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaks66&layout=donut&theme=tokyonight&hide_border=true&langs_count=5" width="60%" alt="Top Languages" />
+</div>
+
+<br><hr><br>
+
+<h2 align="center">🛠️ [TECH STACK & CORE INVENTORY]</h2>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>💻 1. Core Languages</h3>
+      <img src="https://skillicons.dev/icons?i=c,py,html,css,js&theme=dark" /><br><br>
+      <img src="https://img.shields.io/badge/Status-Active_Memory-00FFCC?style=flat-square" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>☁️ 2. Cloud & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform&theme=dark" /><br><br>
+      <img src="https://img.shields.io/badge/Status-Deployed-9933FF?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🛡️ 3. Security & Pentesting</h3>
+      <img src="https://skillicons.dev/icons?i=linux,kali,wireshark&theme=dark" /><br><br>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Status-Listening-FF3366?style=flat-square" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>⚙️ 4. Environment Essentials</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vim&theme=dark" /><br><br>
+      <img src="https://img.shields.io/badge/Status-Optimized-FCC624?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<br><hr><br>
+
+<h2 align="center">📈 [LIVE METRICS & PERFORMANCE]</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaks66&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaks66&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghvc/?username=zaks66&label=TOTAL%20SYSTEM%20ATTACKS&color=9933FF&style=flat-square" />
+</div>
+
+<br><hr><br>
+
+<h2 align="center">🏁 [SYSTEM TERMINATION]</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=9933FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Compilation+successful.+No+memory+leaks." alt="Footer SVG" />
+</div>
