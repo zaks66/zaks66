@@ -46,11 +46,11 @@
   <table border="0" cellpadding="20" cellspacing="0" width="100%">
     <tr> 
       <td width="50%" valign="middle" align="center">
-        <img src="https://ghstats.dev/api/card?username=certus-sec&theme=tokyonight" width="100%" style="max-width: 550px;" />
+        <img src="https://ghstats.dev/api/card?username=zaks66c&theme=tokyonight" width="100%" style="max-width: 550px;" />
       </td>
       <td width="50%" valign="top" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=certus-sec&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
-        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=certus-sec&theme=shadow&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaks66&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
+        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=zaks66&theme=shadow&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
       </td>
     </tr>
   </table>
