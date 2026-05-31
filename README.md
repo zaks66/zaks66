@@ -24,26 +24,19 @@
 <h2 align="center">🛠️ [TECH STACK & CORE INVENTORY]</h2>
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="33%" valign="top">
       <h3>💻 1. Core Languages</h3>
       <img src="https://skillicons.dev/icons?i=c,py,html,css,js&theme=dark" /><br><br>
       <img src="https://img.shields.io/badge/Status-Active_Memory-9933FF?style=flat-square" />
     </td>
-    <td align="center" width="50%" valign="top">
-      <h3>☁️ 2. Cloud & DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform&theme=dark" /><br><br>
-      <img src="https://img.shields.io/badge/Status-Deployed-9933FF?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>🛡️ 3. Security & Pentesting</h3>
+    <td align="center" width="33%" valign="top">
+      <h3>🛡️ 2. Security & Pentesting</h3>
       <img src="https://skillicons.dev/icons?i=linux,kali,wireshark&theme=dark" /><br><br>
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white"/><br><br>
       <img src="https://img.shields.io/badge/Status-Listening-9933FF?style=flat-square" />
     </td>
-    <td align="center" width="50%" valign="top">
-      <h3>⚙️ 4. Environment Essentials</h3>
+    <td align="center" width="33%" valign="top">
+      <h3>⚙️ 3. Environment Essentials</h3>
       <img src="https://skillicons.dev/icons?i=git,github,vim&theme=dark" /><br><br>
       <img src="https://img.shields.io/badge/Status-Optimized-9933FF?style=flat-square" />
     </td>
